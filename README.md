@@ -2,8 +2,8 @@ algoritmo "analisador_de_valores"
 
 var
     c,v,totv,n,vp,d5:inteiro
-    m:real
-inicio
+
+inicio  
     c<-1
     para c:=1 ate 5 faca
         escreva("Digite o",c, "º. valor: ")
